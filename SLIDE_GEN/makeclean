@@ -1,0 +1,6 @@
+/bin/rm SLIDE.aux
+/bin/rm SLIDE.log
+/bin/rm SLIDE.nav
+/bin/rm SLIDE.out
+/bin/rm SLIDE.snm
+/bin/rm SLIDE.toc
